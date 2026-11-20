@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# experimental outputs
+outputs/*
+logs/*
+
+# experimental datasets
+download/*
+dataset/*
+
+# job scripts
+jobs/*
